@@ -20,8 +20,11 @@ The experiments show that:
 * Better consideration of global and temporal dependencies in the prediction process
 
 ![Explainability Results: MTL structure](./Explainable_result_examples/occlusion_temp_central_y25_x40.png)
-*Figure 1: Occlusion-based explainable analysis results comparing MTL-enhanced and separate predictions*
+*Figure 1: Occlusion-based explainable analysis results: MTL-enhanced CNN-LSTM predictions*
 
+![Explainability Results: MTL structure](./Explainable_result_examples/temp_occlusion_temp_central_y25_x40_1.png)
+In contrast, when the MTL architecture is not used, the interpretable results of temperature prediction are as follows
+*Figure 2: Occlusion-based explainable analysis results: conventional CNN-LSTM predictions*
 ## Implementation
 The code is implemented in Python using deep learning frameworks. All experiments were conducted on an NVIDIA GeForce RTX 4060 Laptop GPU with 8GB memory.
 
