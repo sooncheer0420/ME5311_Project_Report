@@ -29,7 +29,9 @@ The code is implemented in Python using deep learning frameworks. All experiment
 
 ## Repository Structure
 ```
-├── models/               # Implementation of CNN-LSTM and MTL architectures
-├── explain.py            # Run explainability analysis
-└── README.md             # Project documentation
+├── CNN-LSTM_MTL.py                    # Implementation of CNN-LSTM and MTL architectures
+├── CNN-LSTM_MTL_explain.py            # Run explainability analysis
+├── CNN-LSTM_MTL_model.pth             # The original result applied in report, under seed(42)
+└── README.md                          # Project documentation
+
 ```
