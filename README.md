@@ -18,7 +18,9 @@ The experiments show that:
 * Significantly improved generalization performance for pressure prediction (11.1% vs 25% generalization error)
 * Enhanced training efficiency through shared representation learning
 * Better consideration of global and temporal dependencies in the prediction process
-./Explainable_result_examples/occlusion_temp_central_y25_x40.png
+
+![Explainability Results: MTL structure](./Explainable_result_examples/occlusion_temp_central_y25_x40.png)
+*Figure 1: Occlusion-based explainable analysis results comparing MTL-enhanced and separate predictions*
 
 ## Implementation
 The code is implemented in Python using deep learning frameworks. All experiments were conducted on an NVIDIA GeForce RTX 4060 Laptop GPU with 8GB memory.
@@ -38,3 +40,6 @@ The code is implemented in Python using deep learning frameworks. All experiment
 
 
 ```
+
+
+
