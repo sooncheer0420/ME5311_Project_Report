@@ -30,7 +30,7 @@ The code is implemented in Python using deep learning frameworks. All experiment
 
 ## Limitations
 * Since the data is provided by the course, it is uncertain whether it can be shared, so only the relevant code is provided
-* Due to computing power limitations, further exploration of GNN-Transformer was not performed; at the same time, for the explanatory part, further analysis of different explanatory strategies such as SHAP was not performed, but the SHAP option is provided in the explanatory code
+* Due to computing power limitations, further exploration of GNN-Transformer was not performed; at the same time, for the explainable part, further analysis such as SHAP was not performed, but the SHAP option is provided in the explain code
 * Due to the requirements of the course assignment (limited to six pages of text and two pictures) and time constraints, only limited comparison and exploration were carried out
 
 ## Repository Structure
